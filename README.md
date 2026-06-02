@@ -18,5 +18,7 @@ Frontend-focused Software Engineer passionate about building scalable and perfor
 🔹 Real-Time Communication Platform
 
 📍 Constantine, Algeria
+
 💼 [LinkedIn](https://www.linkedin.com/in/rami-belkeddas)
+
 📧 rami.belkeddas@gmail.com
