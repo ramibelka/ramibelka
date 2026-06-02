@@ -8,13 +8,13 @@ Frontend-focused Software Engineer passionate about building scalable and perfor
 
 ## Currently
 
-- Building enterprise SaaS applications
-- Optimizing frontend performance
-- Exploring software architecture
+* Building enterprise SaaS applications
+* Optimizing frontend performance
+* Exploring software architecture
 
 ## Featured Projects
 
-🔹 ERP SaaS Platform  
+🔹 ERP SaaS Platform
 
 🔹 Real-Time Communication Platform
 
@@ -22,8 +22,10 @@ Frontend-focused Software Engineer passionate about building scalable and perfor
 
 🔹 Creative landing pages
 
-📍 Constantine, Algeria
+🌐 [Portfolio](https://ramibelka-portfolio.netlify.app/)
 
 💼 [LinkedIn](https://www.linkedin.com/in/rami-belkeddas)
 
-📧 rami.belkeddas@gmail.com
+📍 Constantine, Algeria
+
+📧 [rami.belkeddas@gmail.com](mailto:rami.belkeddas@gmail.com)
