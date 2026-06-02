@@ -15,8 +15,11 @@ Frontend-focused Software Engineer passionate about building scalable and perfor
 ## Featured Projects
 
 🔹 ERP SaaS Platform  
+
 🔹 Real-Time Communication Platform
+
 🔹 E-commerce projects
+
 🔹 Creative landing pages
 
 📍 Constantine, Algeria
